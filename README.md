@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MiltonBlack
-- 👀 I’m interested in Javascript, Typescript and react.js, React Native, Next.js, Rust, NodeJs, express.js, Tailwind css 
+- 👀 I’m interested in Typescript, C#, Rust and NodeJs. 
 
-- 🌱 I’m currently learning Rust, React Native, NodeJs Backend and Blockchain Technology. 
+- 🌱 I’m currently learning Rust, C# and The Solana Blockchain Technology 
 - 💞️ I’m looking to collaborate on ... Interesting and Brilliant Projects. 
 - 📫 You can reach me through arziblack2@gmail.com 
 
